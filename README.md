@@ -14,7 +14,7 @@ It's a tool that allows you calculate exchange rates of different countries.
 
 ## General Information 🙋‍♂️
 
-The project was made by using the IDE "Visual Studio Code" to write the code and use the terminal. The project has only one HTML, CSS and JS file. Also, the project uses a 3 different font files, the font is "Poppins".
+The project was made by using the IDE "Visual Studio Code" to write the code and use the terminal. The project has only one HTML, CSS and JS file. Also, the project uses the font "Poppins".
 
 ## Technologies ⚙️
 
