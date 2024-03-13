@@ -34,7 +34,7 @@ To install the project on your computer, you can use the "Code" button and follo
 - Write `git clone` and paste the url. As follows:
 
 ```
-git clone https://github.com/Yash-Raj981/002_Exchange_Rate_Calculator.git
+git clone [https://github.com/harshitraisahab/currency-rate-converter]
 ```
 
 ### 2️⃣ Download ZIP
@@ -45,4 +45,4 @@ git clone https://github.com/Yash-Raj981/002_Exchange_Rate_Calculator.git
 
 ## Authors 🦸‍♀️
 
-- YaSh - [Yashpal Singh](https://github.com/Yash-Raj981)
+- Harshit - [harshitraisahab](https://github.com/harshitraisahab)
